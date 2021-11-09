@@ -7,4 +7,4 @@ You can adjust it as you need.
 List items snd regular expressions explorer colors you can find by searching word QColor in Sources/QtDialog folder. 
 And adjust them as you want.
 
-![image alt text](F:/Screenshot.png)
+![[Screenshot.png]]
