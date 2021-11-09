@@ -6,5 +6,4 @@ Theme files located at Sources/QtDialog/resources/ folder.
 You can adjust it as you need.
 List items snd regular expressions explorer colors you can find by searching word QColor in Sources/QtDialog folder. 
 And adjust them as you want.
-
-![[Screenshot.png]]
+![image alt text](Screenshot.png)
